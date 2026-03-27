@@ -1,42 +1,52 @@
-# Hi there, I'm Mubarak 👋
+# Mubarak Olanrewaju | Frontend Developer
 
-I'm an aspiring Full Stack Developer with a strong focus on frontend technologies like **React** and **Angular**. Currently, I'm enhancing my skills in Angular to build scalable and efficient web applications.
+I build responsive, production-grade web applications using React, TypeScript,
+Next.js, and Angular. I've shipped products for government institutions,
+fintech platforms, and blockchain ecosystems.
 
----
-
-## 🔭 Current Focus
-- **Angular:** Mastering the intricacies of Angular for robust enterprise-level applications.
-- **React:** Building interactive, responsive web applications with modern frontend techniques.
-
----
-
-## 🌱 Next Steps in Learning
-- **Backend Development:** Planning to dive into Node.js, Express, and databases to expand into full stack development.
-- **Android Development:** Excited to explore Kotlin and Android Studio in the near future.
+Currently building Vurso, a knowledge-sharing platform on the Hedera
+blockchain with smart contract escrow, on-chain reputation, and a
+developer dataset marketplace.
 
 ---
 
-## 📚 What I'm Working On
-- Developing fully functional projects to showcase my skills.
-- Enhancing my GitHub profile with complete, well-documented projects.
+## 🛠 Tech Stack
+
+- **Frontend:** React, Angular, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+- **Blockchain:** Hedera, IOTA, SUI, EVM
+- **Tools:** Git, REST APIs, Figma, Vite
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Freedteck&show_icons=true&theme=radical" alt="Mubarak's GitHub Stats">
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freedteck&layout=compact&theme=radical" alt="Top Languages">
-</p>
+- **[Vurso](https://github.com/Freedteck/Vurso)** - Blockchain-powered developer
+  Q&A platform on Hedera. Bounty questions, smart contract escrow,
+  peer-to-peer tipping, and on-chain reputation.
 
----
+- **[LevelUp LMS](https://levelup-curriculum.netlify.app/)** - AI-driven learning
+  management system with NFT certificates, token rewards, and adaptive assessments.
 
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/mubarak_olanrewaju)
-- [Email](mailto:freedteck@gmail.com)
+- **[Vibetrax](https://github.com/Freedteck/vibetrax)** - Music NFT platform
+  built on IOTA. Features NFT minting and tools for upcoming artists and collaborators.
 
 ---
 
-## ⚡ Fun Fact
-I'm constantly challenging myself to build unique projects that solve real-world problems!
+## 💼 Experience
+
+**Frontend Developer at Encentral Solutions** *(Jan 2025 to Dec 2025)*
+Built frontend for NDIC BLMS and NSIA Procurement System using Angular and Angular Material.
+
+**Team Lead and Developer at LevelUp** *(Apr 2025 to Present)*
+Leading delivery of Web3-integrated learning products. Mentoring junior developers.
+
+**Frontend Developer Mentor at Kodespot** *(May 2024 to Present)*
+Mentoring students from fundamentals to advanced frontend development.
+
+---
+
+## 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/mubarak-olanrewaju) ·
+[Portfolio](https://freedteck.vercel.app) ·
+[Email](mailto:olanrewajumubarak3@gmail.com)
